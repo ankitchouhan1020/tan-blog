@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "build": "gatsby build && cp -R _redirects public/",
+    "build": "gatsby build",
     "develop": "rm -rf .cache && gatsby develop",
     "clean": "gatsby clean"
   },
