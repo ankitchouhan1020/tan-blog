@@ -1,0 +1,11 @@
+- name: Tanmay Surve
+  bio: |
+    Just a computer science engineer with a knack for thinking a lot on everything. 
+    Hence thought I should probably let people know what I am thinking as some of 
+    them seemed too good an idea to simply forget and move on. After all, sharing is caring, right? 
+  avatar: ./avatars/tanmay-surve.jpg
+  featured: true
+  social:
+    - url: https://github.com/tanmaysurve
+    - url: https://instagram.com/_perpetually_inquisitive_?igshid=trab2lggm25n
+    - url: https://www.linkedin.com/in/tanmay-surve-33690916a/
